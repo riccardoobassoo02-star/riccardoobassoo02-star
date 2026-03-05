@@ -8,7 +8,7 @@ I'm interested in the commercial and quantitative side of the energy transition 
 
 ## What I'm working on
 
-- 🔋 **BESS Arbitrage Analyser** — LP optimisation tool for battery storage revenue in ERCOT Day-Ahead Market, with LCOS and payback analysis ([repo](https://github.com/your-username/modo-bess-analyser))
+- 🔋 **BESS Arbitrage Analyser** — LP optimisation tool for battery storage revenue in ERCOT Day-Ahead Market, with LCOS and payback analysis ([repo](https://github.com/riccardoobassoo02-star/modo-bess-analyser))
 - 📈 **Electricity price forecasting** — ML models for day-ahead price prediction
 - ⚡ **HVAC optimisation** — MILP dispatch model for building energy systems under uncertainty (DTU 02435)
 
