@@ -26,7 +26,7 @@ topics     = ["LP/MILP optimisation", "energy markets", "time series", "project 
 
 ## Background
 
-- 🎓 MSc Sustainable Energy Systems — DTU Copenhagen *(2024–present)*
+- 🎓 MSc Sustainable Energy Systems — DTU Copenhagen *(2025–present)*
 - 🎓 BSc Management Engineering — University of Padua *(2021–2024)*
 - 🏭 Process Engineer intern — Cebi Motors
 - 🏢 Junior Consultant — JEst Junior Enterprise Padova
