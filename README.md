@@ -35,7 +35,7 @@ topics     = ["LP/MILP optimisation", "energy markets", "time series", "project 
 
 ## Goals
 
-Looking for a **summer 2026 internship/student assistan position** in energy trading, quantitative market analysis, or project finance — ideally in Europe.
+Looking for a **summer 2026 internship/student assistant position** in energy trading, quantitative market analysis, or project finance — ideally in Europe.
 
 Long-term, I want to work at the intersection of energy markets and the energy transition, eventually developing clean energy projects independently.
 
